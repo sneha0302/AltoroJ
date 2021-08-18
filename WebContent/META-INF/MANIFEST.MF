@@ -1,2 +1,3 @@
 Manifest-Version: 1.0
 
+<meta name="insight-app-sec-validation" content="ba47cccb-6f95-42e6-a58a-f414430de675">
